@@ -51,14 +51,14 @@
 ![MicrosoftPowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?&style=flat&logo=MicrosoftPowerPoint&logoColor=white)
 
 <!-- Collaboration Tools -->
-![Collabo_Tools](https://img.shields.io/badge/-217346.svg?&label=Collabo_Tools&style=flat-square&logoColor=white)
+![Collabo_Tools](https://img.shields.io/badge/-F05032.svg?&label=Collabo_Tools&style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white)
 ![MicrosoftOneNote](https://img.shields.io/badge/OneNote-7719AA.svg?&style=flat&logo=MicrosoftOneNote&logoColor=white)
 
 <!-- Etc -->
-![Etc](https://img.shields.io/badge/-217346.svg?&label=Etc&style=flat-square&logoColor=white)
+![Etc](https://img.shields.io/badge/-1BA0D7.svg?&label=Etc&style=flat-square&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=flat&logo=Cisco&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=flat&logo=NVIDIA&logoColor=white)
 
