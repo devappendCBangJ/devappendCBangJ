@@ -14,8 +14,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
 ![MicrosoftExcel](https://img.shields.io/badge/Excel-217346.svg?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
 ![MicrosoftPowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?&style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white)
@@ -24,6 +22,8 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white)
 
 ## Collaboration Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 ![MicrosoftOneNote](https://img.shields.io/badge/OneNote-7719AA.svg?&style=for-the-badge&logo=MicrosoftOneNote&logoColor=white)
 
