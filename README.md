@@ -5,10 +5,8 @@
 <!-- Github stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark)
 
-
+# Skills 💪
 <!-- 기술 스택 -->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
