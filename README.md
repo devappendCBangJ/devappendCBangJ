@@ -1,5 +1,5 @@
 # 👋 JaeHun Bang
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=capsule%20render&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bang%20World&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&animation=fadeIn)
 
 <!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevappendCBangJ&count_bg=%237F7F7F&title_bg=%23132F57&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
