@@ -15,7 +15,7 @@ Languages
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat-square&logo=.NET&logoColor=white)
 
 ### OS
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=white?label=healthinesses)
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=flat&logo=ROS&logoColor=white)
 
 ### Tools
