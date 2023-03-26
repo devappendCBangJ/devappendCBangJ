@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 ![MicrosoftOneNote](https://img.shields.io/badge/OneNote-7719AA.svg?&style=for-the-badge&logo=MicrosoftOneNote&logoColor=white)
-![MicrosoftExel](https://img.shields.io/badge/Exel-217346.svg?&style=for-the-badge&logo=MicrosoftExel&logoColor=white)
+![MicrosoftExcel](https://img.shields.io/badge/Excel-217346.svg?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
 ![MicrosoftPowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?&style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JupyterNotebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
