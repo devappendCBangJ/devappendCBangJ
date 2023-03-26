@@ -22,6 +22,9 @@ Languages
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ROS&logoColor=white)
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=flat&logo=ROS&logoColor=white)
+
 ### Tools
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat-square&logo=Anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JupyterNotebook-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
