@@ -20,30 +20,33 @@
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=flat&logo=ROS&logoColor=white)
 
 <!-- Tools -->
+![Tools](https://img.shields.io/badge/-44A833.svg?&label=Tools&style=flat-square&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat&logo=Anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JupyterNotebook-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
-
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=flat&logo=VisualStudio&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?&style=flat&logo=VisualStudioCode&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=flat&logo=VirtualBox&logoColor=white)
+<!-- ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=flat&logo=VirtualBox&logoColor=white) -->
 
 <!-- Framework -->
+![Framework](https://img.shields.io/badge/-EE4C2C.svg?&label=Framework&style=flat-square&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat&logo=Pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white)
 
 <!-- Embedded -->
+![Embedded](https://img.shields.io/badge/-A22846.svg?&label=Embedded&style=flat-square&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846.svg?&style=flat&logo=RaspberryPi&logoColor=white)
 ![Arm](https://img.shields.io/badge/Mbed-0091BD.svg?&style=flat&logo=Arm&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=flat&logo=Arduino&logoColor=white)
 
 <!-- Mechanical Engineering -->
+![Mechanical Engineering](https://img.shields.io/badge/-A22846.svg?&label=Mechanical_Engineering&style=flat-square&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/AutoCAD-000000.svg?&style=flat&logo=Autodesk&logoColor=white)
 ![DassaultSystemes](https://img.shields.io/badge/Solidworks-005386.svg?&style=flat&logo=DassaultSystemes&logoColor=white)
 
 <!-- Office Tools -->
+![Office](https://img.shields.io/badge/-217346.svg?&label=Office&style=flat-square&logoColor=white)
 ![MicrosoftExcel](https://img.shields.io/badge/Excel-217346.svg?&style=flat&logo=MicrosoftExcel&logoColor=white)
 ![MicrosoftPowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?&style=flat&logo=MicrosoftPowerPoint&logoColor=white)
 
