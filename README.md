@@ -53,8 +53,8 @@
 ![MicrosoftOneNote](https://img.shields.io/badge/OneNote-7719AA.svg?&style=flat-square&logo=MicrosoftOneNote&logoColor=white)
 
 ## Etc
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=for-the-badge&logo=Cisco&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=flat-square&logo=Cisco&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=flat-square&logo=NVIDIA&logoColor=white)
 
 <!--
 **devappendCBangJ/devappendCBangJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
