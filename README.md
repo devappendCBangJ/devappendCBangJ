@@ -14,6 +14,10 @@ Languages
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=C++&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat&logo=.NET&logoColor=white)
 
+![C](https://img.shields.io/badge/C_Language-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat-square&logo=.NET&logoColor=white)
+
 ### OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ROS&logoColor=white)
