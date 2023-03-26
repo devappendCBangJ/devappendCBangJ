@@ -40,7 +40,7 @@
 
 ## Mechanical Engineering
 ![Autodesk](https://img.shields.io/badge/AutoCAD-000000.svg?&style=flat-square&logo=Autodesk&logoColor=white)
-![Dassault Systemes](https://img.shields.io/badge/Solidworks-005386.svg?&style=flat-square&logo=Dassault_Systemes&logoColor=white)
+![DassaultSystemes](https://img.shields.io/badge/Solidworks-005386.svg?&style=flat-square&logo=DassaultSystemes&logoColor=white)
 
 ## Office Tools
 ![MicrosoftExcel](https://img.shields.io/badge/Excel-217346.svg?&style=flat-square&logo=MicrosoftExcel&logoColor=white)
