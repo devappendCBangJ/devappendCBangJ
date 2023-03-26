@@ -8,7 +8,7 @@
 # 💪 Skills
 <!-- 기술 스택 -->
 <!-- Languages -->
-![Langauges](https://img.shields.io/badge/Langauges-3776AB.svg?&style=social&logo=Langauges&logoColor=white)
+![Langauges](https://img.shields.io/badge/-3776AB.svg?&labels=Langauges&style=social&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 
 ![C](https://img.shields.io/badge/C_Language-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white)
