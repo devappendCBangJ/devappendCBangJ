@@ -15,6 +15,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat-square&logo=.NET&logoColor=white)
 
 <!-- OS -->
+![OS](https://img.shields.io/badge/-E95420.svg?&label=OS&style=flat-square&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=flat&logo=ROS&logoColor=white)
 
