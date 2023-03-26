@@ -10,62 +10,51 @@
 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 
-![C](https://img.shields.io/badge/C_Language-A8B9CC.svg?&style=flat&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=C++&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat&logo=.NET&logoColor=white)
-
 ![C](https://img.shields.io/badge/C_Language-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat-square&logo=.NET&logoColor=white)
 
 ### OS
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ROS&logoColor=white)
-
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=flat&logo=ROS&logoColor=white)
 
 ### Tools
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat-square&logo=Anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JupyterNotebook-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white)
-
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat&logo=Anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JupyterNotebook-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=flat-square&logo=VisualStudio&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?&style=flat-square&logo=VisualStudioCode&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=flat-square&logo=VirtualBox&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=flat&logo=VisualStudio&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?&style=flat&logo=VisualStudioCode&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=flat&logo=VirtualBox&logoColor=white)
 
 ### Framework
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=Pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat&logo=Pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white)
 
 ### Embedded
-![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846.svg?&style=flat-square&logo=RaspberryPi&logoColor=white)
-![Arm](https://img.shields.io/badge/Mbed-0091BD.svg?&style=flat-square&logo=Arm&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=flat-square&logo=Arduino&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846.svg?&style=flat&logo=RaspberryPi&logoColor=white)
+![Arm](https://img.shields.io/badge/Mbed-0091BD.svg?&style=flat&logo=Arm&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=flat&logo=Arduino&logoColor=white)
 
 ### Mechanical Engineering
-![Autodesk](https://img.shields.io/badge/AutoCAD-000000.svg?&style=flat-square&logo=Autodesk&logoColor=white)
-![DassaultSystemes](https://img.shields.io/badge/Solidworks-005386.svg?&style=flat-square&logo=DassaultSystemes&logoColor=white)
+![Autodesk](https://img.shields.io/badge/AutoCAD-000000.svg?&style=flat&logo=Autodesk&logoColor=white)
+![DassaultSystemes](https://img.shields.io/badge/Solidworks-005386.svg?&style=flat&logo=DassaultSystemes&logoColor=white)
 
 ### Office Tools
-![MicrosoftExcel](https://img.shields.io/badge/Excel-217346.svg?&style=flat-square&logo=MicrosoftExcel&logoColor=white)
-![MicrosoftPowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?&style=flat-square&logo=MicrosoftPowerPoint&logoColor=white)
+![MicrosoftExcel](https://img.shields.io/badge/Excel-217346.svg?&style=flat&logo=MicrosoftExcel&logoColor=white)
+![MicrosoftPowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?&style=flat&logo=MicrosoftPowerPoint&logoColor=white)
 
 ### Collaboration Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white)
-![MicrosoftOneNote](https://img.shields.io/badge/OneNote-7719AA.svg?&style=flat-square&logo=MicrosoftOneNote&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=GitHub&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white)
+![MicrosoftOneNote](https://img.shields.io/badge/OneNote-7719AA.svg?&style=flat&logo=MicrosoftOneNote&logoColor=white)
 
 ### Etc
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=flat-square&logo=Cisco&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=flat-square&logo=NVIDIA&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=flat&logo=Cisco&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=flat&logo=NVIDIA&logoColor=white)
 
 <!--
 **devappendCBangJ/devappendCBangJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
