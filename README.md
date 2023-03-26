@@ -9,7 +9,7 @@
 <!-- 기술 스택 -->
 ![Langauges](https://img.shields.io/badge/-3776AB.svg?&label=Langauges&style=flat-square&logoColor=white)</div> <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=C++&logoColor=white)
 <!-- ![C](https://img.shields.io/badge/C_Language-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white) -->
 <!-- ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat-square&logo=.NET&logoColor=white) -->
 
@@ -35,7 +35,7 @@
 ![Arm](https://img.shields.io/badge/Mbed-0091BD.svg?&style=flat&logo=Arm&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=flat&logo=Arduino&logoColor=white)
 
-![Mechanical Engineering](https://img.shields.io/badge/-A22846.svg?&label=Mechanical_Engineering&style=flat-square&logoColor=white) <!-- Mechanical Engineering -->
+![Mechanical Engineering](https://img.shields.io/badge/-005386.svg?&label=Mechanical_Engineering&style=flat-square&logoColor=white) <!-- Mechanical Engineering -->
 ![DassaultSystemes](https://img.shields.io/badge/Solidworks-005386.svg?&style=flat&logo=DassaultSystemes&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/AutoCAD-000000.svg?&style=flat&logo=Autodesk&logoColor=white)
 
