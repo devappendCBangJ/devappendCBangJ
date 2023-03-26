@@ -15,6 +15,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 ![MicrosoftOneNote](https://img.shields.io/badge/OneNote-7719AA.svg?&style=for-the-badge&logo=MicrosoftOneNote&logoColor=white)
+![MicrosoftExel](https://img.shields.io/badge/Exel-217346.svg?&style=for-the-badge&logo=MicrosoftExel&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white)
 
 ![C](https://img.shields.io/badge/C_Language-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
