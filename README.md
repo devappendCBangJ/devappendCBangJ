@@ -1,4 +1,4 @@
-# 👋 JaeHun Bang
+<!-- # 👋 JaeHun Bang -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bang%20World&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&animation=fadeIn)
 
 <!-- 방문자 수 -->
