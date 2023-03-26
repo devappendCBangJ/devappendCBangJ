@@ -15,7 +15,7 @@
 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Arm](https://img.shields.io/badge/Arm-0091BD.svg?&style=for-the-badge&logo=Arm&logoColor=white)
