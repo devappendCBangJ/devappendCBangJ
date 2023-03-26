@@ -13,10 +13,12 @@
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+#5C3EE8
 
 ![C](https://img.shields.io/badge/C_Language-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white)
 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white)
