@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
-#5C3EE8
+![MicrosoftOneNote](https://img.shields.io/badge/OneNote-7719AA.svg?&style=for-the-badge&logo=MicrosoftOneNote&logoColor=white)
 
 ![C](https://img.shields.io/badge/C_Language-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
