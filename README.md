@@ -9,11 +9,12 @@
 <!-- 기술 스택 -->
 <div align="center">
   ![Langauges](https://img.shields.io/badge/-3776AB.svg?&label=Langauges&style=flat-square&logoColor=white) <!-- Languages -->
+</div>
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
   ![C](https://img.shields.io/badge/C_Language-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat-square&logo=.NET&logoColor=white)
-</div>
+
 
 ![OS](https://img.shields.io/badge/-E95420.svg?&label=OS&style=flat-square&logoColor=white) <!-- OS -->
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=white)
