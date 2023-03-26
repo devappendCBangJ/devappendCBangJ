@@ -10,6 +10,13 @@
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JupyterNotebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white)
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
 ## Framework
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -20,11 +27,6 @@
 
 ![MicrosoftExcel](https://img.shields.io/badge/Excel-217346.svg?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
 ![MicrosoftPowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?&style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JupyterNotebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white)
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
 
 ## Collaboration Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -32,24 +34,20 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 ![MicrosoftOneNote](https://img.shields.io/badge/OneNote-7719AA.svg?&style=for-the-badge&logo=MicrosoftOneNote&logoColor=white)
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ![C](https://img.shields.io/badge/C_Language-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 ![Autodesk](https://img.shields.io/badge/Autodesk-000000.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-
-
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=for-the-badge&logo=Cisco&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 <!--
 **devappendCBangJ/devappendCBangJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
