@@ -54,7 +54,8 @@
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=flat&logo=NVIDIA&logoColor=white)
 
  [![Bang's github activity graph](https://activity-graph.herokuapp.com/graph?username=devappendCBangJ&theme=monokai)](https://github.com/Bang/github-readme-activity-graph)
- 
+
+# :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devappendCBangJ@gmail.com)](mailto:devappendCBangJ@gmail.com)
 
 <!--
