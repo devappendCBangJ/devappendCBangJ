@@ -3,7 +3,7 @@
 <!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevappendCBangJ&count_bg=%237F7F7F&title_bg=%23132F57&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- Github stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark)
+![Bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark)
 
 # 💪 Skills
 <!-- 기술 스택 -->
@@ -21,7 +21,7 @@
 ![Jupyter](https://img.shields.io/badge/JupyterNotebook-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=flat&logo=VisualStudio&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?&style=flat&logo=VisualStudioCode&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?&style=flat&logo=VisualStudioCode&logoColor=white) <br>
 <!-- ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=flat&logo=VirtualBox&logoColor=white) -->
 ![Framework](https://img.shields.io/badge/-EE4C2C.svg?&label=Framework&style=flat-square&logoColor=white) <!-- Framework -->
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat&logo=Pytorch&logoColor=white)
@@ -45,6 +45,8 @@
 ![Etc](https://img.shields.io/badge/-1BA0D7.svg?&label=Etc&style=flat-square&logoColor=white) <!-- Etc -->
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=flat&logo=Cisco&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=flat&logo=NVIDIA&logoColor=white)
+
+ [![Bang's github activity graph](https://activity-graph.herokuapp.com/graph?username=devappendCBangJ&theme=monokai)](https://github.com/soyeon207/github-readme-activity-graph)
 
 <!--
 **devappendCBangJ/devappendCBangJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
