@@ -23,9 +23,9 @@
 ![Jupyter](https://img.shields.io/badge/JupyterNotebook-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white)
 
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=flat-square&logo=VirtualBox&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=flat-square&logo=VisualStudio&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?&style=flat-square&logo=VisualStudioCode&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=flat-square&logo=VirtualBox&logoColor=white)
 
 ## Framework
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=Pytorch&logoColor=white)
