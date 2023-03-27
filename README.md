@@ -9,7 +9,7 @@
 <!-- 3) 레포지토리 언어 비율 -->
 <!-- 4) Github 3D 통계 -->
 <a href="s">
-  <img src=https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark&border_radius=6 width="56.5%" />
+  <img src=https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark&border_radius=6 width="56.3%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devappendCBangJ&exclude_repo=producitve_box,github-stats-box,pandas,git,hg-mldl&layout=compact&hide_progress=false&theme=github_dark&border_radius=6" width="43%" />
 </a>
 
