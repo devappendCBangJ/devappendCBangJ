@@ -7,6 +7,9 @@
 <!-- Github stats -->
 ![Bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark)
 
+<img src="https://raw.githubusercontent.com/devappendCBangJ/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devappendCBangJ)](https://github.com/anuraghazra/github-readme-stats)
+
 # 💪 Skills
 <!-- 기술 스택 -->
 ![Langauges](https://img.shields.io/badge/-3776AB.svg?&label=Langauges&style=flat-square&logoColor=white)</div> <!-- Languages -->
