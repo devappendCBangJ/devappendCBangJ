@@ -17,8 +17,8 @@ jobs:
           USERNAME: devappendCBangJ
       - name: Commit & Push
         run: |
-          git config devappendCBangJ github-actions
-          git config dev.appendCBangJ@gmail.com github-actions@github.com
+          git config user.name devappendCBangJ
+          git config user.email devappendCBangJ@github.com
           git add -A .
           git commit -m "generated"
           git push
