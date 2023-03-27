@@ -1,5 +1,5 @@
 <!-- 1. Title -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Bang%20World&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&textBg=false&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Bang%20World&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&textBg=false&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&animation=fadeIn)
 
 <!-- 2. My Github -->
 <!-- 1) 방문자 수 -->
@@ -65,7 +65,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devappendCBangJ@gmail.com)](mailto:devappendCBangJ@gmail.com)
 
 <!-- 5. End -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bang%20World&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&textBg=false&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&section=header&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&textBg=false&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&animation=fadeIn)
 
 
 
