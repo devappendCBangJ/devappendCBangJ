@@ -55,8 +55,10 @@
 ![MicrosoftOneNote](https://img.shields.io/badge/OneNote-7719AA.svg?&style=flat&logo=MicrosoftOneNote&logoColor=white)
 
 <!-- 4. 연락처 -->
-### <h2> <img src="https://media.tenor.com/ZaGSXMvj5wcAAAAC/lou-lignon.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Contacts </h2>
+### <h2> <img src="https://media4.giphy.com/media/8m5fomvKEmXI9ZTR5R/giphy.gif?cid=ecf05e473qe8mde9vwah5ehq9muyp2y3uvdxsxj4drn3y6nq&rid=giphy.gif&ct=s" width="40px" height="40px"> My Contacts </h2>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devappendCBangJ@gmail.com)](mailto:devappendCBangJ@gmail.com)
+
+
 
 <!-- 1. Title -->
 <!--
@@ -71,7 +73,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devappendCBangJ&exclude_repo=producitve_box,github-stats-box,pandas,git,hg-mldl&layout=compact&hide_progress=false)](https://github.com/anuraghazara/github-readme-stats)
 -->
 
-
 <!-- 3. 나의 능력 -->
 <!-- 1) 기술 스택 -->
 <!--
@@ -83,6 +84,11 @@
 ![Etc](https://img.shields.io/badge/-1BA0D7.svg?&label=Etc&style=flat-square&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=flat&logo=Cisco&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=flat&logo=NVIDIA&logoColor=white)
+-->
+
+<!-- 4. 연락처 -->
+<!--
+### <h2> <img src="https://media.tenor.com/ZaGSXMvj5wcAAAAC/lou-lignon.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Contacts </h2>
 -->
 
 <!-- 
