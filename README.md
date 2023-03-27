@@ -1,5 +1,5 @@
 <!-- 1. Title -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Bang%20World&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&textBg=false&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hi!%20I'm%20JaeHun&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&textBg=false&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&animation=fadeIn)
 
 <!-- 2. My Github -->
 <!-- 1) 방문자 수 -->
