@@ -5,10 +5,13 @@
 <!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevappendCBangJ&count_bg=%237F7F7F&title_bg=%23132F57&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- Github stats -->
-![Bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark)
 
-<img src="https://raw.githubusercontent.com/devappendCBangJ/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devappendCBangJ)](https://github.com/devappendCBangJ/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devappendCBangJ)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 주 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devappendCBangJ&exclude_repo=producitve_box,github-stats-box,pandas,git,hg-mldl&layout=compact&hide_progress=false)](https://github.com/anuraghazara/github-readme-stats)
+<!-- &langs_count= -->
 
 # 💪 Skills
 <!-- 기술 스택 -->
