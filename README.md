@@ -15,6 +15,8 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=devappendCBangJ&theme=flat&column=7)](https://github.com/devappendCBangJ/)
+
 <!-- 3. 나의 능력 -->
 ### <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Skills </h2>
 <!-- 1) 기술 스택 -->
