@@ -4,16 +4,19 @@
 
 <!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevappendCBangJ&count_bg=%237F7F7F&title_bg=%23132F57&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!-- Github stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark)
+<!-- 레포지토리 언어 비율 -->
+<a href="s">
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark) -->
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devappendCBangJ&exclude_repo=producitve_box,github-stats-box,pandas,git,hg-mldl&layout=compact&hide_progress=false)](https://github.com/anuraghazara/github-readme-stats) -->
+  <!-- &langs_count= -->
+  <img src=https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark&border_radius=6 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devappendCBangJ&exclude_repo=producitve_box,github-stats-box,pandas,git,hg-mldl&layout=compact&hide_progress=false&theme=github_dark&border_radius=6" width="35%" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devappendCBangJ)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- 주 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devappendCBangJ&exclude_repo=producitve_box,github-stats-box,pandas,git,hg-mldl&layout=compact&hide_progress=false)](https://github.com/anuraghazara/github-readme-stats)
-<!-- &langs_count= -->
-
-# 💪 Skills
+### <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> Skills </h2>
+### <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> Skills </h2>
 <!-- 기술 스택 -->
 ![Langauges](https://img.shields.io/badge/-3776AB.svg?&label=Langauges&style=flat-square&logoColor=white)</div> <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
