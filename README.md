@@ -81,7 +81,7 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white)
 
-![Etc](https://img.shields.io/badge/-1BA0D7.svg?&label=Etc&style=flat-square&logoColor=white) <!-- Etc -->
+![Etc](https://img.shields.io/badge/-1BA0D7.svg?&label=Etc&style=flat-square&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=flat&logo=Cisco&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=flat&logo=NVIDIA&logoColor=white)
 -->
