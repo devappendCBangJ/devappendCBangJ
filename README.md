@@ -1,23 +1,21 @@
-<!-- # 👋 JaeHun Bang -->
+<!-- 1. Title -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bang%20World&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&textBg=false&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&section=header&animation=fadeIn)
-<!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div> -->
 
-<!-- 방문자 수 -->
+<!-- 2. My Github -->
+<!-- 1) 방문자 수 -->
 ### <h2> <img src="https://media.tenor.com/LwULtPSWGTwAAAAi/trophy-joypixels.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Github </h2>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevappendCBangJ&count_bg=%237F7F7F&title_bg=%23132F57&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!-- Github stats -->
-<!-- 레포지토리 언어 비율 -->
+<!-- 2) Github stats -->
+<!-- 3) 레포지토리 언어 비율 -->
 <a href="s">
-  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark) -->
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devappendCBangJ&exclude_repo=producitve_box,github-stats-box,pandas,git,hg-mldl&layout=compact&hide_progress=false)](https://github.com/anuraghazara/github-readme-stats) -->
-  <!-- &langs_count= -->
   <img src=https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark&border_radius=6 />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devappendCBangJ&exclude_repo=producitve_box,github-stats-box,pandas,git,hg-mldl&layout=compact&hide_progress=false&theme=github_dark&border_radius=6" width="35%" />
 </a>
 
-<!-- 기술 스택 -->
+<!-- 3. 나의 능력 -->
 ### <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Skills </h2>
+<!-- 1) 기술 스택 -->
 ![Langauges](https://img.shields.io/badge/-3776AB.svg?&label=Langauges&style=flat-square&logoColor=white)</div> <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=C++&logoColor=white)
@@ -33,13 +31,10 @@
 ![Jupyter](https://img.shields.io/badge/JupyterNotebook-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?&style=flat&logo=VisualStudioCode&logoColor=white) <br>
-<!-- ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=flat&logo=VisualStudio&logoColor=white) -->
-<!-- ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=flat&logo=VirtualBox&logoColor=white) -->
 
 ![Framework](https://img.shields.io/badge/-EE4C2C.svg?&label=Framework&style=flat-square&logoColor=white) <!-- Framework -->
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat&logo=Pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white) -->
 
 ![Embedded](https://img.shields.io/badge/-A22846.svg?&label=Embedded&style=flat-square&logoColor=white) <!-- Embedded -->
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-A22846.svg?&style=flat&logo=RaspberryPi&logoColor=white)
@@ -60,21 +55,38 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white)
 ![MicrosoftOneNote](https://img.shields.io/badge/OneNote-7719AA.svg?&style=flat&logo=MicrosoftOneNote&logoColor=white)
 
-<!-- ![Etc](https://img.shields.io/badge/-1BA0D7.svg?&label=Etc&style=flat-square&logoColor=white) --> <!-- Etc -->
-<!-- ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=flat&logo=Cisco&logoColor=white) -->
-<!-- ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=flat&logo=NVIDIA&logoColor=white) -->
-
-<!-- 연락처 -->
+<!-- 4. 연락처 -->
 ### <h2> <img src="https://media.tenor.com/ZaGSXMvj5wcAAAAC/lou-lignon.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Contacts </h2>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devappendCBangJ@gmail.com)](mailto:devappendCBangJ@gmail.com)
 
+<!-- 1. Title -->
 <!--
-**devappendCBangJ/devappendCBangJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 JaeHun Bang
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
+-->
+
+<!-- 2) Github stats -->
+<!-- 3) 레포지토리 언어 비율 -->
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devappendCBangJ&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devappendCBangJ&exclude_repo=producitve_box,github-stats-box,pandas,git,hg-mldl&layout=compact&hide_progress=false)](https://github.com/anuraghazara/github-readme-stats)
+-->
 
 
+<!-- 3. 나의 능력 -->
+<!-- 1) 기술 스택 -->
+<!--
+![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=flat&logo=VisualStudio&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?&style=flat&logo=VirtualBox&logoColor=white)
 
-Here are some ideas to get you started:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white)
 
+![Etc](https://img.shields.io/badge/-1BA0D7.svg?&label=Etc&style=flat-square&logoColor=white) <!-- Etc -->
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?&style=flat&logo=Cisco&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=flat&logo=NVIDIA&logoColor=white)
+-->
+
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
