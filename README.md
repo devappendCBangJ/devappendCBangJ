@@ -31,7 +31,8 @@
 
 <!-- 4. 연락처 -->
 ### <h2> <img src="https://media4.giphy.com/media/8m5fomvKEmXI9ZTR5R/giphy.gif?cid=ecf05e473qe8mde9vwah5ehq9muyp2y3uvdxsxj4drn3y6nq&rid=giphy.gif&ct=s" width="40px" height="40px"> My Contacts </h2>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devappendCBangJ@gmail.com)](mailto:devappendCBangJ@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devappendCBangJ@gmail.com)](mailto:devappendCBangJ@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:devappendCBangJ@gmail.com)](mailto:devappendCBangJ@gmail.com)
 
 <!-- 5. End -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&textBg=false&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&animation=fadeIn)
@@ -109,7 +110,6 @@
 
 <!-- 4. 연락처 -->
 <!--
-### <h2> <img src="https://media.tenor.com/ZaGSXMvj5wcAAAAC/lou-lignon.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Contacts </h2>
 ### <h2> <img src="https://media.tenor.com/ZaGSXMvj5wcAAAAC/lou-lignon.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Contacts </h2>
 -->
 
