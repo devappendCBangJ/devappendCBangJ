@@ -32,7 +32,7 @@
 <!-- 4. 연락처 -->
 ### <h2> <img src="https://media4.giphy.com/media/8m5fomvKEmXI9ZTR5R/giphy.gif?cid=ecf05e473qe8mde9vwah5ehq9muyp2y3uvdxsxj4drn3y6nq&rid=giphy.gif&ct=s" width="40px" height="40px"> My Contacts </h2>
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devappendCBangJ@gmail.com)](mailto:devappendCBangJ@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://bangspace.notion.site/Dev-Study-8f6f5f75a2c14ef2bbf19e17d571ab28)]([mailto:devappendCBangJ@gmail.com](https://bangspace.notion.site/Dev-Study-8f6f5f75a2c14ef2bbf19e17d571ab28))
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://bangspace.notion.site/Dev-Study-8f6f5f75a2c14ef2bbf19e17d571ab28)](https://bangspace.notion.site/Dev-Study-8f6f5f75a2c14ef2bbf19e17d571ab28)
 
 <!-- 5. End -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&textBg=false&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&animation=fadeIn)
