@@ -1,5 +1,5 @@
 <!-- 1. Title -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Bang&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&textBg=false&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=👋 Bang&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&textBg=false&desc=&descSize=30&descAlign=50&descAlignY=50&rotate=0&reversal=false&animation=fadeIn)
 
 <!-- 2. 나의 능력 -->
 ### <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Skills </h2>
