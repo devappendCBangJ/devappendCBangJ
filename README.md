@@ -20,6 +20,7 @@
 <!-- 3) Github 요약 통계 -->
 <!-- 4) 레포지토리 언어 비율 -->
 <!-- 5) Github 3D 통계 -->
+<!-- 임시 제거
 [![trophy](https://github-profile-trophy.vercel.app/?username=devappendCBangJ&theme=flat&column=7)](https://github.com/devappendCBangJ/)
 
 <a href="s">
@@ -28,6 +29,7 @@
 </a>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+ -->
 
 <!-- 4. 연락처 -->
 ### <h2> <img src="https://media4.giphy.com/media/8m5fomvKEmXI9ZTR5R/giphy.gif?cid=ecf05e473qe8mde9vwah5ehq9muyp2y3uvdxsxj4drn3y6nq&rid=giphy.gif&ct=s" width="40px" height="40px"> My Contacts </h2>
